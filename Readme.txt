@@ -23,5 +23,19 @@ Source: Source code
 Video seminar: Video seminar
 
 ---------------------------------------------------
-Link playist video: 
+
+== Redux ==
+* Link playist youtube:
 https://www.youtube.com/playlist?list=PLqksKgr4-2FfAnr4_m20uGg1KTculLJig
+
+
+* Link tổng hợp google drive:
+https://drive.google.com/drive/folders/1QbeJ79hyN7lKV_9Vr6LmGk1TflzZjTrA
+
+== Recoiljs ==
+* Link playist youtube:
+https://www.youtube.com/playlist?list=PLqksKgr4-2FeKFnUC0OUZbzLm5OZB-hMq
+
+
+* Link tổng hợp google drive:
+https://drive.google.com/drive/folders/1iu0R-MXUK8tmX87sxRoTteHfFA3HKnsW

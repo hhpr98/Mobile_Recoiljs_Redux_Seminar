@@ -1,9 +1,0 @@
-* Link (Redux + Recoiljs):
-https://www.youtube.com/playlist?list=PLqksKgr4-2FfAnr4_m20uGg1KTculLJig
-
-
-
-* Phần Redux
-https://drive.google.com/drive/folders/1QbeJ79hyN7lKV_9Vr6LmGk1TflzZjTrA
-
-* Phần Recoiljs
